@@ -23,7 +23,6 @@ dbt debug
 docker-compose up -d
 docker-compose exec dbt bash
 
-dbt --version
 dbt debug
 ```
 
